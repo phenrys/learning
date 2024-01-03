@@ -9,3 +9,27 @@ Diz se há mudanças a ser commitada. Informa se as mudanças já estão sendo m
 ### git add
 
 O `git add` serve para adicionar  arquivos para o stage area. Ao fazer um commit apenas essas mudanças serão registradas.
+
+Ao rodar um `git add .` na raiz do repositório, todas as mudanças são adicionadas para a stage area.
+
+### git remote
+
+**O que é um remote?**
+
+É uma plataforma onde fica alocado o repositoririo.
+
+**Eu posso ter mais de um?**
+
+Sim é possivel ter vários remote no repositório. E pode ultilizar varias plataformas de hospedagens.
+
+**Como adicionar um remote**
+
+Para adicionar um remote é preciso utlizar o comando `git remote add <apelido> <endereço>` 
+
+**Como listar os remotes cadastrados no repositório**
+
+Pra listar os remotes cadastrados é preciso ultilizar o comando `git remote`
+
+**Como deletar um remote**
+
+Para deletar um remote é preciso ultilizar o comando `git remote remove` 
