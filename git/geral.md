@@ -8,6 +8,4 @@ Diz se há mudanças a ser commitada. Informa se as mudanças já estão sendo m
 
 ### git add
 
-O `git add` serve para adicionar  arquivos para stage area. Ao fazer um commit apenas essas mudanças serão registradas.
-
-git add
+O `git add` serve para adicionar  arquivos para o stage area. Ao fazer um commit apenas essas mudanças serão registradas.
