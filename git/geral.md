@@ -1,6 +1,6 @@
 ### git init
 
-Inicializa um repositório local. Quando um repositório é iniciado uma pasta invisivel `.git` é criada. Está pasta contem informações das aterações do repositório.
+Inicializa um repositório local. Quando um repositório é iniciado uma pasta invisivel `.git` é criada. Está pasta contem informações das alterações do repositório.
 
 ### git status
 
