@@ -33,3 +33,9 @@ Pra listar os remotes cadastrados é preciso utilizar o comando `git remote`
 **Como deletar um remote**
 
 Para deletar um remote é preciso utilizar o comando `git remote remove` 
+
+### git push
+
+O `git push` é usado para enviar as alterações para o repositório remoto. Ele geralmente é usado após a criação de commits.
+
+Ao usar o comando `git push -u <remote> <branch>` os commits da branch selecionada serão enviados para o remote selecionado.
