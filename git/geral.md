@@ -16,20 +16,20 @@ Ao rodar um `git add .` na raiz do repositório, todas as mudanças são adicion
 
 **O que é um remote?**
 
-É uma plataforma onde fica alocado o repositoririo.
+É uma plataforma onde fica alocado o repositório.
 
 **Eu posso ter mais de um?**
 
-Sim é possivel ter vários remote no repositório. E pode ultilizar varias plataformas de hospedagens.
+Sim é possivel ter vários remotes no repositório. E pode utilizar várias plataformas de hospedagens.
 
 **Como adicionar um remote**
 
-Para adicionar um remote é preciso utlizar o comando `git remote add <apelido> <endereço>` 
+Para adicionar um remote é preciso utilizar o comando `git remote add <apelido> <endereço>` 
 
 **Como listar os remotes cadastrados no repositório**
 
-Pra listar os remotes cadastrados é preciso ultilizar o comando `git remote`
+Pra listar os remotes cadastrados é preciso utilizar o comando `git remote`
 
 **Como deletar um remote**
 
-Para deletar um remote é preciso ultilizar o comando `git remote remove` 
+Para deletar um remote é preciso utilizar o comando `git remote remove` 
